@@ -1,0 +1,2 @@
+SELECT * FROM emp
+WHERE job = 'MANAGER'

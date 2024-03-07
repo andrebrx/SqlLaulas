@@ -1,0 +1,3 @@
+Na linguagem SQL a cláusula select é usada para relacionar os atributos desejados no resultado de uma consulta. A palavra chave que podemos inserir após a cláusula select para forçar a eliminação de duplicidade no resultado de uma consulta é
+
+Resposta: Distinct.
